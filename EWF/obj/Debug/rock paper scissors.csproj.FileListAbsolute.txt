@@ -1,0 +1,10 @@
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock paper scissors.csprojAssemblyReference.cache
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock_paper_scissors.rpsApp.resources
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock_paper_scissors.Properties.Resources.resources
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock paper scissors.csproj.GenerateResource.cache
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock paper scissors.csproj.CoreCompileInputs.cache
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\bin\Debug\rock paper scissors.exe.config
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\bin\Debug\rock paper scissors.exe
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\bin\Debug\rock paper scissors.pdb
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock paper scissors.exe
+C:\Users\cyb3ranarch\source\repos\rock paper scissors\obj\Debug\rock paper scissors.pdb
